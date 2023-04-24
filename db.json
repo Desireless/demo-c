@@ -1,12 +1,12 @@
 
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "key": "hello"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "REST_API_V1"
   }
 }
